@@ -111,8 +111,3 @@ button{
     cursor: pointer;
     font-size: 15px;
 }
-/* lien */
-#last_lien a{
-    color: white;
-    margin-left: 5px;
-}
